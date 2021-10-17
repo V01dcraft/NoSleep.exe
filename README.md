@@ -7,7 +7,7 @@ Because GitHub doesn't allow files over 25MB to be uploaded here, you can downlo
 ## Version Information:
 - Software Executable: NoSleep.exe
 - Software Version: 1.0
-- Project Size: 960,537 KB (NoSleep.zip)
+- Project Size: 497,731 KB / 497.731 MB (NoSleep.exe)
 - Type: Trojan
 - Severity: Severe
 - Administrator Required: True
