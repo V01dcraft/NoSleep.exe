@@ -10,3 +10,5 @@ Because GitHub doesn't allow files over 25MB to be uploaded here, you can downlo
 - Project Size: 960,537 KB (NoSleep.zip)
 - Type: Trojan
 - Severity: Severe
+- Administrator Required: True
+- Main Coding Languages: C#, WPF
